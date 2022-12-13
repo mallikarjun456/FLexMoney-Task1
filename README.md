@@ -1,3 +1,4 @@
+
 # Project Title
 
 This is a Yoga Admission Form Where People registred and Pay the money for Yoga.
@@ -64,3 +65,5 @@ If you have any feedback, please reach out to us at mallikaruntugawe@gmail.com
 ## Support
 
 For support, email mallikaruntugawe@gmail.com or join our Slack channel.
+
+![Yoga Admission Form E-R diagram](https://user-images.githubusercontent.com/102363200/207452022-dbda86b7-740d-445d-9ee3-5340e6157aca.jpeg)
